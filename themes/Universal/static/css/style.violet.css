@@ -1063,7 +1063,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 12px;
 }
 .panel.sidebar-menu.with-icons ul.nav li a:after {
-  font-family: 'FontAwesome';
+  font-family: 'FontAwesome', "Font Awesome 5 Free", "FontAwesome 6.5.0";
   content: "\f105";
   position: relative;
   top: 0;
