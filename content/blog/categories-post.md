@@ -7,7 +7,7 @@ banner = "https://jamstack.org/img/logo/svg/Jamstack_Logo_Original.svg"
 authors = ["TechnoStar"]
 +++
 
-You can use a static site generator for creating product Webhelp can be a common and practical approach. Static site generators, like Jekyll, Hugo, or Gatsby, are efficient tools for generating static HTML files from simple markup language, such as Markdown. Here are some advantages:
+Using a static site generator for creating product Webhelp can be a common and practical approach. Static site generators, like Jekyll, Hugo, or Gatsby, are efficient tools for generating static HTML files from simple markup language, such as Markdown. Here are some advantages:
 
 1. **Speed and Performance:** Static sites are faster to load since they consist of pre-built HTML files. This results in a better user experience, especially for online help where quick access to information is crucial.
 
