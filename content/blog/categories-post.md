@@ -3,7 +3,7 @@ title = "Generating Webelp using Jamstack"
 date = "2024-01-15"
 tags = ["Webhelp", "Jamstack", "hugo"]
 categories = []
-banner = "img/banners/banner-4.jpg"
+banner = "https://jamstack.org/img/logo/svg/Jamstack_Logo_Original.svg"
 authors = ["TechnoStar"]
 +++
 
