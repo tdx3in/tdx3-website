@@ -2,4 +2,4 @@ weight: 3
 name: "Legacy Content Migration"
 icon: "fa-solid fa-arrow-right-arrow-left"
 url: "offerings/offerings#legacy-content-migration"
-description: "We analyze the target audience's needs, knowledge levels, technical expertise, and preferences to tailor documentation to their specific requirements."
+description: "Benefit from our tools expertise as we seamlessly migrate content from diverse platforms such as Madcap Flare, MS Word, HTML, Confluence, and Adobe TechComm Suite into the standardized DITA format. Our conversion plans, executed with automation tools and scripts, guarantee content quality, cost savings, and timely delivery. We take charge of your entire content migration project, handling the import and testing of migrated content within the source repository (CCMS). Additionally, we provide training on various migration techniques and troubleshoot any migration errors that may arise."
