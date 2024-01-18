@@ -68,3 +68,6 @@ twitter_author = "jekyllrb"
 - Ethics and integrity
 
 ### Website Development (Static Sites)
+
+- website development services
+- Documentation portal services
