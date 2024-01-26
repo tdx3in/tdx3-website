@@ -24,11 +24,11 @@ pluralizelisttitles = false
 
 
 # Main menu
-[[menu.main]]
-    name       = "Home"
-    identifier = "menu.home"
-    url        = "/"
-    weight     = 1
+# [[menu.main]]
+#     name       = "Home"
+#     identifier = "menu.home"
+#     url        = "/"
+#     weight     = 1
 
 [[menu.main]]
     name       = "Option 1: Default Page"
@@ -514,7 +514,7 @@ pluralizelisttitles = false
     # For more information take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
@@ -530,7 +530,7 @@ pluralizelisttitles = false
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
