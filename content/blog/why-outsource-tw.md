@@ -3,7 +3,7 @@ title = "Why and when should you consider outsouring technical documentation"
 date = "2024-01-22"
 tags = ["Webhelp", "Jamstack", "hugo"]
 categories = []
-banner = ""
+banner = "img/banners/banner-1.jpg"
 authors = ["Ram"]
 +++
 

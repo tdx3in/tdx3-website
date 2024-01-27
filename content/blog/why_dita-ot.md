@@ -3,7 +3,7 @@ title = "Why have DITA Customizations"
 date = "2024-01-22"
 tags = ["DITA", "DITA-OT", "hugo"]
 categories = []
-banner = ""
+banner = "img/banners/banner-2.jpg"
 authors = ["Chugh"]
 +++
 
