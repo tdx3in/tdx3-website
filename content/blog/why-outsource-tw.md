@@ -3,7 +3,7 @@ title = "Why and when should you consider outsouring technical documentation"
 date = "2024-01-22"
 tags = ["Webhelp", "Jamstack", "hugo"]
 categories = []
-banner = "https://www.thewowstyle.com/wp-content/uploads/2015/02/landscape-photography-image-free-wallpaper.jpg"
+banner = ""
 authors = ["Ram"]
 +++
 

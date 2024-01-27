@@ -3,7 +3,7 @@ title = "Why have DITA Customizations"
 date = "2024-01-22"
 tags = ["DITA", "DITA-OT", "hugo"]
 categories = []
-banner = "https://www.parson-europe.com/sites/default/files/styles/inline_landscape/public/2023-12/DITA-OT.png"
+banner = ""
 authors = ["Chugh"]
 +++
 
