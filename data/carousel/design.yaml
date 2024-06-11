@@ -1,13 +1,7 @@
 weight: 1
-title: "Technical Writing Services"
-description: "
-    <p>Author and Maintain Technical Documentation . Estimate Time and Resources . Prepare Detailed Documentation Plans</p>
-
-  <ul class="list-style-none">
-    <li>Author and Maintain Technical Documentation</li>
-    <li>Estimate Time and Resources</li>
-    <li>Prepare Detailed Documentation Plans</li>
-  </ul>"
-
-
-image: "img/carousel/template-easy-customize.png"
+title: Technical Writing Services
+description: <p>Author and Maintain Technical Documentation. Estimate Time and
+  Resources. Prepare Detailed Documentation Plans.</p> <BR> <ul> <li>Author and
+  Maintain Technical Documentation</li> <li>Estimate Time and Resources</li>
+  <li>Prepare Detailed Documentation Plans</li> </ul>
+image: img/carousel/template-easy-customize.png
