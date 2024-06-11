@@ -1,9 +1,9 @@
 ---
 weight: 2
 title: Documentation Consulting
-description: "  <ul> <li>Guide companies through their content journey</li>
+description: <ul class="list-style-none"> <li>Guide companies through their content journey</li>
   <li>Assist in selecting appropriate content authoring environments and
   CCMS</li> <li>Manage the entire process from implementation to testing to
   handover</li> <li>Train writers and power users, providing ongoing
-  support</li> </ul>"
+  support</li> </ul>
 image: img/carousel/template-mac.png
