@@ -4,7 +4,7 @@ date = "2024-01-22"
 tags = ["DITA", "DITA-OT", "hugo"]
 categories = []
 banner = "img/banners/banner-2.jpg"
-authors = ["Chugh"]
+<!-- authors = ["Chugh"]-->
 +++
 
 # DITA XML and DITA Open Toolkit 
