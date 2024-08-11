@@ -384,7 +384,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:tdx3.in@gmail.com"
+    url = "mailto:info@tdx3.in"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -474,9 +474,9 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at tdx3.in@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at info@tdx3.in</p>
       <p class="hidden-md hidden-lg"><a href="tel: +91 00000000" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:tdx3.in@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:info@tdx3.in" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
