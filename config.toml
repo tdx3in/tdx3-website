@@ -1,6 +1,6 @@
 baseurl = "/" 
 
-title = "TDX3 - The Content Bridge Company"
+title = "TDX3-The Content Bridge Company"
 theme = "Universal"
 # themesDir = "../.."
 languageCode = "en-us"
