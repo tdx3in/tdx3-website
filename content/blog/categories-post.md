@@ -3,7 +3,7 @@ title = "Benefits of LMS & Outsourcing to Tech Doc Experts"
 date = "2026-02-02"
 tags = ["LMS", "SCORM", "Tech Docs", "Outsourcing"]
 categories = ["Learning Solutions"]
-banner = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/globe.svg"
+banner = "img/banners/Wavy_Edu-04_Single-05.jpg"
 authors = ["TechnoStar"]
 +++
 
