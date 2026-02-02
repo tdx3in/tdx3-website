@@ -1,5 +1,5 @@
 weight: 3
-name: "Legacy Content Migration"
-icon: "fa-solid fa-arrow-right-arrow-left"
-url: "offerings/offerings#legacy-content-migration"
-description: "We engage our tools expertise to effect seamless content migration from diverse platforms such as Madcap Flare, MS Word, HTML, Confluence, and Adobe TechComm Suite into the standardized DITA format. Our conversion plans, executed with automation tools and scripts, guarantee content quality, cost savings, and timely delivery. Our comprehensive content migration projects include importing and testing of migrated content within the source repository (CCMS), troubleshooting migration errors, and training on migration techniques."
+name: "Learning Solutions & LMS Authoring"
+icon: "fa-solid fa-book-open"
+url: "offerings/offerings#learning-solutions-lms-authoring"
+description: "As a technical documentation company, we extend our expertise into LMS services by providing structured learning content authoring with framework and template support. Our team is proficient across multiple authoring platforms and adheres to industry standards such as SCORM, AICC, and xAPI (Tin Can) to ensure compatibility across diverse LMS environments. We deliver reusable, compliant, and engaging learning modules that integrate seamlessly with enterprise learning platforms, enabling organizations to scale training efficiently while maintaining consistency and quality."
