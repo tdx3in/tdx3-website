@@ -445,7 +445,7 @@ pluralizelisttitles = false
 
     
     # about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2024, tdX3; all rights reserved."
+    copyright = "Copyright (c) 2026, tdX3; all rights reserved."
 
     
     # Format dates with Go's time formatting
