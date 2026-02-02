@@ -23,13 +23,14 @@ twitter_author = "jekyllrb"
 - Usability tests conducted in collaboration with writers and SMEs for assessing the efficacy of documentation from an end-user perspective.
 
 
-### Legacy Content Migration
-- Tools Expertise: Leverage our expertise in migrating content from diverse tools (Madcap Flare, MS Word, HTML, Confluence), including - Adobe TechComm Suite, ensuring a smooth transformation into the standardized DITA format. This content can then be consumed by any - - Component Content Management system (CCMS).
-- Defining and executing conversion plans using automation tools and scripts, which ensures content quality, and cost and time savings.
-- Manage your entire content migration project.
-- Import and test the migrated content within the source repository (CCMS).
-- Train your team on various migration techniques.
-- Troubleshoot migration errors.
+### LMS Content Authoring & Standards
+- **Framework & Template Support:** Provide robust frameworks and reusable templates to ensure consistency, scalability, and efficiency in LMS content creation.  
+- **Multi-Platform Expertise:** Leverage our proficiency across diverse authoring platforms to deliver standardized learning modules.  
+- **Standards Compliance:** Adhere to industry-recognized LMS standards such as **SCORM, AICC, and xAPI (Tin Can)**, ensuring interoperability across different LMS environments.  
+- **Output Delivery:** Generate SCORM-compliant packages and other LMS-ready outputs for seamless integration into enterprise learning platforms.  
+- **Instructional Design Best Practices:** Apply proven instructional design methodologies to create engaging, reusable, and compliant learning experiences.  
+- **Quality Assurance:** Validate authored content within LMS environments to ensure compatibility, usability, and learner engagement.  
+- **Team Enablement:** Train your teams on authoring techniques, standards compliance, and best practices for scalable LMS content development.  
 
 
 ### Content Authoring Platform and Framework Support
