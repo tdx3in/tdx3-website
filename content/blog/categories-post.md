@@ -4,7 +4,7 @@ date = "2026-02-02"
 tags = ["LMS", "SCORM", "Tech Docs", "Outsourcing"]
 categories = ["Learning Solutions"]
 banner = "img/banners/Wavy_Edu-04_Single-05.jpg"
-authors = ["TechnoStar"]
+authors = ["Ram"]
 +++
 
 Learning Management Systems (LMS) are essential for modern organizations to deliver structured, scalable, and engaging training. They ensure compliance with standards, streamline learning delivery, and provide measurable outcomes. Outsourcing LMS content development to a technical documentation company offers distinct advantages:
